@@ -1,0 +1,32 @@
+WOB and TORQUE, we need to select SUrface with assigning
+We can import and export family assgn, select the log while doing
+Click on workflow + F1 for opening Guru
+
+FLUID:
+MI is given as .5 as of now.
+Understand fluid tupe and its impact on TDI
+YP and FL conversion required
+As per Abudhabi, we need to update Fluid time everyday for drilling jobs, What the purpose, and on what reference(DDR) ?
+Understand the fluids and impact on T&D >> Google it
+
+BHA:
+Drift BHA is mininmum ID
+Ton i sUS ton or normal ton?
+ton to KG = * 1000
+Nozzle,convert units mm to in and mm2 to in2
+If we make anu changes in BHA, assigne it again in WGH
+Depth gate edit ? 
+CS comma limited for survey file save
+
+
+TVD:
+Select dataset - Actual / Planned survey imported
+upload file in comma delimited
+PLanned traj we setus planned traj, but we can select the planned traj if available ?
+For Drilling we have to give actual survey rgt?, not planned survey
+
+BROOMSTICK:
+Free rotate torque and HKLD, it will take after the connection
+pickup and slcakoff, it will take pre connecton >>
+
+
